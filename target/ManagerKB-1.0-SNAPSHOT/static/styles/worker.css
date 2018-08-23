@@ -1,0 +1,196 @@
+
+
+*,
+*:before,
+*:after {
+
+    box-sizing: border-box;
+}
+legend {
+    color: #395870;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+form {
+    border: 2px solid #c6c7cc;
+    border-radius: 10px;
+    font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    overflow: hidden;
+    width: auto;
+    height: auto;
+}
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+input {
+    border-radius: 5px;
+    font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 10px;
+    margin-left: 30px;
+}
+label{
+    border-radius: 5px;
+    font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: left;
+    margin: 10px;
+}
+select {
+    border-radius: 5px;
+    font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 10px;
+    width: 167px;
+    margin-left: 55px;
+}
+
+.username {
+    padding: 20px 20px 0 20px;
+}
+.username label {
+    color: #395870;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.username input {
+    background: #fff;
+    border: 1px solid #c6c7cc;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+    color: #636466;
+    padding: 6px;
+    margin-top: 6px;
+    width: 100%;
+}
+.firsname {
+    padding: 20px 20px 0 20px;
+}
+.firsname label {
+    color: #395870;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.firsname input {
+    background: #fff;
+    border: 1px solid #c6c7cc;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+    color: #636466;
+    padding: 6px;
+    margin-top: 6px;
+    width: 100%;
+}
+
+
+.lastname {
+    padding: 20px 20px 0 20px;
+}
+.lastname label {
+    color: #395870;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.lastname input {
+    background: #fff;
+    border: 1px solid #c6c7cc;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+    color: #636466;
+    padding: 6px;
+    margin-top: 6px;
+    width: 100%;
+}
+
+.email {
+    padding: 20px 20px 0 20px;
+}
+.email label {
+    color: #395870;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+.email input {
+    background: #fff;
+    border: 1px solid #c6c7cc;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+    color: #636466;
+    padding: 6px;
+    margin-top: 6px;
+    width: 100%;
+}
+.phoneNumber {
+    padding: 20px 20px 0 20px;
+}
+.phoneNumber label {
+    color: #395870;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 20px;
+
+}
+.phoneNumber input {
+    background: #fff;
+    border: 1px solid #c6c7cc;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+    color: #636466;
+    padding: 6px;
+    margin-top: 6px;
+
+    width: 100%;
+}
+.password {
+    padding: 20px 20px 0 20px;
+}
+.password label {
+    color: #395870;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.password input {
+    background: #fff;
+    border: 1px solid #c6c7cc;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+    color: #636466;
+    padding: 6px;
+    margin-top: 6px;
+    width: 100%;
+}
+.store {
+    padding: 20px 20px 0 20px;
+}
+.store label {
+    color: #395870;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.store select {
+    background: #fff;
+    border: 1px solid #c6c7cc;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+    color: #636466;
+    padding: 6px;
+    margin-top: 6px;
+    width: 100%;
+}
+.submit input {
+    background: whitesmoke;
+    border: 2px solid #c6c7cc;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+    color: #636466;
+    padding: 6px;
+    margin-top: 6px;
+    width: 100%;
+}
+a{
+    color: #395870;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 20px;
+}

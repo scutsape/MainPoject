@@ -1,0 +1,63 @@
+/*body{*/
+    /*background:whitesmoke;*/
+/*}*/
+
+/*h2{*/
+    /*background: #94c2ff;*/
+    /*box-shadow: yellow 20px 20px 20px 20px;*/
+    /*text-align: center;*/
+/*}*/
+/*.wrapForm {*/
+    /*!*width: 40%;*!*/
+    /*width: 400px;*/
+    /*height:200px;*/
+    /*background: #333333;*/
+    /*float: left;*/
+/*}*/
+/*!*.wrapForm>form>input*!*/
+/*.wrapForm input, .wrapForm select{*/
+    /*display: block;*/
+    /*background: #fff7a8;*/
+    /*border-radius:4px;*/
+    /*width:200px;*/
+    /*margin-bottom:3px;*/
+
+/*}*/
+
+/*.wrapForm input:focus, .wrapForm select:focus{*/
+    /*background: greenyellow;*/
+/*}*/
+
+/*.leftBlock{*/
+    /*width: 400px;*/
+    /*height: 200px;*/
+    /*!*background: red;*!*/
+    /*background: url(http://the-loco.co.uk/wp-content/uploads/2015/01/logo-e1420805296413.jpg);*/
+    /*background-size: 50px 50px;*/
+    /*background-size: 100% 100%;*/
+    /*background-position: 20px 50px;*/
+    /*float: left;*/
+    /*transition: 1s ;*/
+/*}*/
+/*.leftBlock:hover{*/
+    /*background: blue;*/
+    /*background: linear-gradient(45deg,red,blue,gold 45px);*/
+    /*transition: 2s ;*/
+    /*border-radius: 50%;*/
+    /*margin-left:50px;*/
+/*}*/
+
+/*.oneMoreBlock{*/
+    /*width: 500px;*/
+    /*height: 250px;*/
+    /*background: green;*/
+    /*clear: both;*/
+/*}*/
+
+/*input:hover{*/
+    /*box-shadow: 0 0 10px white;*/
+
+/*}*/
+
+
+
